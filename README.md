@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👩‍💻 Olá, eu sou a Tainara Martins!
+Sou uma futura desenvolvedora front-end apaixonada por transformar ideias em experiências digitais. Acredito que tecnologia, criatividade e educação andam lado a lado — e é nesse cruzamento que me encontrei como profissional.
 
-<!--
-**Tainara-m/Tainara-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Com foco em HTML, CSS e JavaScript, gosto de criar interfaces acessíveis, visualmente agradáveis e funcionais. Independente do projeto que estou desenvolvendo, coloco atenção nos detalhes, propósito no design e clareza no código.
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades e Tecnologias que tenho interesse em aprimorar
+- **Linguagens**: HTML5, CSS3, JavaScript
+- **Ferramentas**: Git, GitHub, VSCode, Figma, Trello
+- **Conceitos**: responsividade, acessibilidade, lógica de programação
+- **Aprendendo agora**: React.js, consumo de APIs, versionamento avançado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em Destaque
+Busco sempre por projetos que possam ser aplicados de forma interdisciplinar dentro de uma escola. O foco no momento tem sido jogos e utilitários para o dia a dia de professores.
+
+## 📈 Atualmente Estou
+- Estudando JavaScript e fundamentos básicos de back end
+- Praticando responsividade com **CSS Flexbox e Grid**
+- Melhorando minhas habilidades em interface e design
+- Construindo um portfólio próprio para reunir meus projetos
+
+Obrigada por visitar meu perfil! 😊  
+Se algum projeto te inspirar ou quiser trocar ideias, estou sempre aberta a colaborações.
+
+Esse resumo sobre mim está em constante mudança!
