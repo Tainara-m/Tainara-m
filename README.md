@@ -5,7 +5,7 @@ Com foco em HTML, CSS e JavaScript, gosto de criar interfaces acessíveis, visua
 
 ## 🛠️ Habilidades e Tecnologias que tenho interesse em aprimorar
 - **Linguagens**: HTML5, CSS3, JavaScript
-- **Ferramentas**: Git, GitHub, VSCode, Figma, Trello
+- **Ferramentas**: Git, GitHub, VSCode, Trello
 - **Conceitos**: responsividade, acessibilidade, lógica de programação
 - **Aprendendo agora**: React.js, consumo de APIs, versionamento avançado
 
