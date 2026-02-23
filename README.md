@@ -1,24 +1,48 @@
-# 👩‍💻 Olá, eu sou a Tainara Martins!
-Sou uma futura desenvolvedora front-end apaixonada por transformar ideias em experiências digitais. Acredito que tecnologia, criatividade e educação andam lado a lado — e é nesse cruzamento que me encontrei como profissional.
+## 👩‍💻 Olá! Eu sou a Tainara Martins
 
-Com foco em HTML, CSS e JavaScript, gosto de criar interfaces acessíveis, visualmente agradáveis e funcionais. Independente do projeto que estou desenvolvendo, coloco atenção nos detalhes, propósito no design e clareza no código.
+Sou desenvolvedora front-end em formação, com foco na criação de **interfaces acessíveis, intuitivas e visualmente bem resolvidas**. Atuo na interseção entre **tecnologia, educação e UX/UI**, desenvolvendo projetos que conectam código a experiências reais de uso.
 
-## 🛠️ Habilidades e Tecnologias que tenho interesse em aprimorar
-- **Linguagens**: HTML5, CSS3, JavaScript
-- **Ferramentas**: Git, GitHub, VSCode, Trello
-- **Conceitos**: responsividade, acessibilidade, lógica de programação
-- **Aprendendo agora**: React.js, consumo de APIs, versionamento avançado
+Acredito que bons produtos digitais nascem da combinação entre **clareza, propósito e usabilidade** — princípios que guiam tanto meu portfólio quanto meus projetos aqui no GitHub.
 
-## 🚀 Projetos em Destaque
-Busco sempre por projetos que possam ser aplicados de forma interdisciplinar dentro de uma escola. O foco no momento tem sido jogos e utilitários para o dia a dia de professores.
+---
 
-## 📈 Atualmente Estou
-- Estudando JavaScript e fundamentos básicos de back end
-- Praticando responsividade com **CSS Flexbox e Grid**
-- Melhorando minhas habilidades em interface e design
-- Construindo um portfólio próprio para reunir meus projetos
+### 🎯 O que eu faço
+- Desenvolvimento de interfaces com **HTML, CSS e JavaScript**
+- Criação de layouts **responsivos e acessíveis**
+- Projetos com foco em **educação digital e produtos para professores**
+- Atenção a **UI, experiência do usuário e organização de código**
 
-Obrigada por visitar meu perfil! 😊  
-Se algum projeto te inspirar ou quiser trocar ideias, estou sempre aberta a colaborações.
+---
 
-Esse resumo sobre mim está em constante mudança!
+### 🛠️ Tecnologias & Ferramentas
+**Front-end:**  
+HTML5 · CSS3 · JavaScript  
+
+**Ferramentas:**  
+Git · GitHub · VS Code · Obsidian  
+
+**Conceitos:**  
+Responsividade · Acessibilidade · Lógica de Programação · UI/UX  
+
+**Em aprofundamento:**  
+React.js · Consumo de APIs · Versionamento avançado
+
+---
+
+### 🚀 Projetos
+Meus projetos são pensados como **produtos aplicáveis ao contexto educacional**, incluindo jogos e utilitários digitais que auxiliam professores no dia a dia, sempre priorizando simplicidade, clareza e boa experiência de uso.
+
+👉 Confira meus repositórios e meu portfólio para ver essas ideias em prática.
+
+---
+
+### 📈 Atualmente
+- Aprofundando JavaScript e fundamentos de back-end  
+- Praticando layouts com **Flexbox e Grid**  
+- Evoluindo minhas habilidades em **UI e UX**
+- Construindo e refinando meu **portfólio pessoal**
+
+---
+
+💬 Este perfil está em constante evolução — assim como meu aprendizado.  
+Se quiser trocar ideias ou colaborar em algum projeto, fique à vontade para entrar em contato.
