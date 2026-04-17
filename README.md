@@ -8,8 +8,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Tainara-m/Tainara-m/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <p align="left">🎯 O que eu faço<br>- Desenvolvimento de interfaces com **HTML, CSS e JavaScript**<br>- Criação de layouts **responsivos e acessíveis**<br>- Projetos com foco em **educação digital e produtos para professores**<br>- Atenção a **UI, experiência do usuário e organização de código**</p>
